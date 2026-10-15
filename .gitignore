@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sensitive files
+.env
+cookies.json
+
+# Manga images
+downloaded_manga/*
+!downloaded_manga/.gitkeep
